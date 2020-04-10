@@ -1,0 +1,2 @@
+write "nodemon index.js" in cmd
+add this to react.jsx should be copied to the app.jsx in new react project
